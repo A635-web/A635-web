@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi there 👋
 Hi there 👋<br><br>I am Aditya Dixit, currently studying in Motilal Nehru National Institute of<br>Technology,Allahabad. I am a Full-Stack JavaScript developer and love<br>writing clean and maintainable code. <br>Find out more about me & feel free to connect with me here:
 
 
